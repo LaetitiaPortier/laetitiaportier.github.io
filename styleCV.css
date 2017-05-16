@@ -3,6 +3,8 @@ body
 	font-family: calibri, serif;
 	color: #0F1517;
 	background-image: url('images/fond4.jpg');
+	margin-right: 3%;
+	margin-left: 3%;
 }
 
 header
